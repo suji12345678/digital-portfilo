@@ -106,7 +106,7 @@
     </div>
 
     <div class="footer">
-        &copy; 2024 Suji M
+        &copy; 2025 Suji M
     </div>
 
 </body>
